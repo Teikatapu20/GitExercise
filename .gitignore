@@ -1,0 +1,5 @@
+#C++ built file
+*.exe
+*.obj
+*.pdb
+*.ilk
